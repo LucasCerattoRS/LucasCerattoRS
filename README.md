@@ -5,9 +5,9 @@
 </div>
 ---
 
-### 👋 Hi, I’m Md Farid  
+### 👋 Hi, I’m Lukas 
 
-I’m a **Full-Stack Web Developer** with strong interest in **Web3, Blockchain, and Automation**.  
+I’m a **Full-Stack Web Developer** with strong interest in **WebDevelopment, Blockchain, and Automation**.  
 I enjoy building real-world projects, participating in hackathons, and experimenting with developer tools.
 
 ---
@@ -21,18 +21,16 @@ It updates automatically to reflect my recent activity.
 
 ### 🛠️ Tech & Interests  
 
-- 🌐 Web Development (MERN, WordPress)
-- 🔗 Web3 & Blockchain
+- 🌐 Web Development 
+- 🔗 Blockchain
 - ⚙️ GitHub Actions & Automation
-- 🚀 Hackathons & Open-Source
+- 🚀 Hackathons
 
 ---
 
 ### 📫 Connect With Me  
 
-- 🌍 Portfolio: https://thefarid.xyz  
-- 🐦 Twitter/X: https://x.com/MdFarid7886  
-- 💼 LinkedIn: https://www.linkedin.com/in/md-farid-1aa563291/
+- 💼 LinkedIn: https://www.linkedin.com/in/lucas-ceratto-b404b439a/
 
 ---
 

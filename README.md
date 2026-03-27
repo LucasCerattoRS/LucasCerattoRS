@@ -1,9 +1,8 @@
-# 🚀 Md Farid – GitHub Activity Game
+## 🚀 Lucas – GitHub Activity Game
 
-<p align="center">
-  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
-</p>
-
+<div align="center">
+  <img src="game.gif" alt="Meu GitHub Space Shooter">
+</div>
 ---
 
 ### 👋 Hi, I’m Md Farid  

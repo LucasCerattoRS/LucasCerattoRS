@@ -57,7 +57,7 @@ linha a linha, em português.
 
 ### 📫 Contato
 
-- 💼 LinkedIn: [lucas-ceratto](https://www.linkedin.com/in/lucas-ceratto-b404b439a/)
+- 💼 LinkedIn: [lucas-ceratto-dagnese](https://www.linkedin.com/in/lucas-ceratto-dagnese-b404b439a/)
 
 ---
 

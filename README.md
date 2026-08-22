@@ -1,20 +1,22 @@
 # 👋 Oi, eu sou o Lucas
 
-*Building local-first software and on-device AI — everything runs on your machine, nothing goes to the cloud.*
+*Local-first software, IA on-device, e a lógica do faça-você-mesmo aplicada a tudo.*
 
 Desenvolvedor autodidata do interior do Rio Grande do Sul 🇧🇷. Construo software
 que **roda inteiro na sua máquina**: apps offline-first, IA local em hardware que
 a maioria das pessoas nem sabe que tem, e material de estudo que explica o código
 linha a linha, em português.
 
-Fora do teclado, opero e programo máquinas CNC e adapto projetos de design pra
-produção industrial — é de lá que vem meu jeito de pensar em sistemas: tolerância,
-processo repetível, o que quebra na prática e não só no papel.
+Fora do teclado, faço engenharia reversa de projeto e programação completa de
+máquinas CNC numa indústria moveleira: traduzo modelo 3D de designer em peça
+real, ou remodelo do zero quando o projeto não é viável. É de lá que vem meu
+instinto de sistemas — o que funciona no papel raramente é o que funciona na
+prática, e isso vale tanto pra madeira quanto pra código. Prefiro entender como
+algo funciona por baixo e construir eu mesmo a confiar de olhos fechados.
 
-> 🔨 **Em fase de consolidação.** Depois de abrir ~40 repositórios, parei pra
-> documentar, testar e entender de verdade o que já existe antes de abrir o
-> próximo. Menos commit novo por um tempo, mais projeto saindo do "quase" pro
-> `done`.
+> 🔧 **Manutenção produtiva.** Meus repositórios são mantidos e usados de
+> verdade, não só publicados — prioridade agora é aprofundar o que já existe
+> antes de abrir o próximo.
 
 ---
 
@@ -37,15 +39,6 @@ Alura (Escola de Tecnologia) pros fundamentos formais, e o resto — a maior
 parte — é autodidata: abrindo o próprio código antigo, lendo os manuais das
 tecnologias que já uso, e conversando bastante com IA até o "porquê" fazer
 sentido, não só o "como".
-
-### 🚀 Projetos em destaque
-
-| Projeto | O que é |
-|---|---|
-| [**TranscritorNPU**](https://github.com/LucasCerattoRS/-TranscritorNPU) | Transcrição de áudio/vídeo 100% local com Whisper large-v3-turbo rodando na **NPU** via OpenVINO GenAI, interface Gradio. Nada sobe pra nuvem. |
-| [**FinanWise**](https://github.com/LucasCerattoRS/finan) | 💰 Gestor de finanças pessoais offline e portátil (Electron) + 37 documentos didáticos explicando o código linha a linha. |
-| [**Horizonte Estudos**](https://github.com/LucasCerattoRS/horizonte-estudos) | Painel de estudos PWA offline-first (ENEM/UFRGS) em vanilla JS — Cloudflare Pages/D1/Push e pipeline de dados de provas. |
-| [**Sistema RH (estudo)**](https://github.com/LucasCerattoRS/Sistema_RH-Estudo-Publico) | Material didático sobre um monólito Node.js/Express/SQLite: 28 conceitos de web explicados do zero + glossário A–Z. |
 
 ### 🛠️ Stack
 

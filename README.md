@@ -7,6 +7,15 @@ que **roda inteiro na sua máquina**: apps offline-first, IA local em hardware q
 a maioria das pessoas nem sabe que tem, e material de estudo que explica o código
 linha a linha, em português.
 
+Fora do teclado, opero e programo máquinas CNC e adapto projetos de design pra
+produção industrial — é de lá que vem meu jeito de pensar em sistemas: tolerância,
+processo repetível, o que quebra na prática e não só no papel.
+
+> 🔨 **Em fase de consolidação.** Depois de abrir ~40 repositórios, parei pra
+> documentar, testar e entender de verdade o que já existe antes de abrir o
+> próximo. Menos commit novo por um tempo, mais projeto saindo do "quase" pro
+> `done`.
+
 ---
 
 ### 🔍 O que eu pesquiso e construo
@@ -19,6 +28,15 @@ linha a linha, em português.
   pt-BR: conceitos explicados do zero, glossários, código comentado
 - ⚙️ **Automação e ferramentas de dev** — GitHub Actions, pipelines de dados,
   scripts que resolvem problema real
+- 🔐 **Criptografia e engenharia reversa** — entender como as coisas são
+  protegidas (e como quebram) antes de confiar nelas
+
+### 🎓 Onde estudo
+
+Alura (Escola de Tecnologia) pros fundamentos formais, e o resto — a maior
+parte — é autodidata: abrindo o próprio código antigo, lendo os manuais das
+tecnologias que já uso, e conversando bastante com IA até o "porquê" fazer
+sentido, não só o "como".
 
 ### 🚀 Projetos em destaque
 

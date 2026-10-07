@@ -1,39 +1,57 @@
-<div align="center">
-  <h1>👋 Oi, eu sou o Lucas</h1>
-  <p><strong>Software local · IA no dispositivo · engenharia de agentes</strong></p>
-  <p>Desenvolvedor autodidata do interior do Rio Grande do Sul 🇧🇷</p>
-</div>
+# 👋 Oi, eu sou o Lucas
 
-Trabalho também com projetos e programação de máquinas CNC na indústria
-moveleira. Transformar um modelo 3D em uma peça viável me ensinou a testar
-ideias nas condições reais de uso — um cuidado que levo para o software.
+*Local-first software, IA on-device, e a lógica do faça-você-mesmo aplicada a tudo.*
 
-### 🤖 O que construo com IA
+Desenvolvedor autodidata do interior do Rio Grande do Sul 🇧🇷. Construo software
+que **roda inteiro na sua máquina**: apps offline-first, IA local em hardware que
+a maioria das pessoas nem sabe que tem, e material de estudo que explica o código
+linha a linha, em português.
 
-| Engenharia de agentes | IA no próprio dispositivo |
-|---|---|
-| [**AI Coop**](https://github.com/LucasCerattoRS/ai-coop) — protocolo em desenvolvimento para Claude Code e Codex cooperarem com tarefas explícitas, worktrees isolados, handoffs e revisão por commit exato. | [**TranscritorNPU**](https://github.com/LucasCerattoRS/TranscritorNPU) — transcrição local com Whisper e OpenVINO na NPU, GPU ou CPU; inclui extração de texto de imagens e PDFs. |
+Fora do teclado, faço engenharia reversa de projeto e programação completa de
+máquinas CNC numa indústria moveleira: traduzo modelo 3D de designer em peça
+real, ou remodelo do zero quando o projeto não é viável. É de lá que vem meu
+instinto de sistemas: o que funciona no papel raramente é o que funciona na
+prática, e isso vale tanto pra madeira quanto pra código. Prefiro entender como
+algo funciona por baixo e construir eu mesmo a confiar de olhos fechados.
 
-No AI Coop, meu foco é **eficiência com rastreabilidade**: preservar contexto,
-reduzir retrabalho e manter a decisão de integrar mudanças com uma pessoa.
+> 🔧 **Manutenção produtiva.** Meus repositórios são mantidos e usados de
+> verdade, não só publicados. A prioridade agora é aprofundar o que já existe
+> antes de abrir o próximo.
 
-### 🚀 Projetos em destaque
+---
 
-| Projeto | O que tem nele |
-|---|---|
-| [**Horizonte Estudos**](https://github.com/LucasCerattoRS/horizonte-estudos) | Painel de estudos ENEM/UFRGS em JavaScript puro, com uso offline e sincronização entre dispositivos. |
-| [**Finan**](https://github.com/LucasCerattoRS/finan) | Gestor financeiro portátil em Electron e material que explica o código passo a passo. |
-| [**The Farmer Was Replaced — Lab**](https://github.com/LucasCerattoRS/the-farmer-was-replaced-lab) | Guias em português e inglês e scripts comentados para estudar automação no jogo. |
-| [**Sistema RH — estudo**](https://github.com/LucasCerattoRS/Sistema_RH-Estudo-Publico) | Guia de Node.js, Express e SQLite para entender uma aplicação web do zero. |
+### 🔍 O que eu pesquiso e construo
 
-### 📚 Como estudo
+- 🧠 **IA local / on-device:** modelos rodando na NPU e GPU do próprio notebook
+  (Whisper + OpenVINO), sem depender de nuvem
+- 📴 **Apps offline-first e portáteis:** desktop com Electron, PWAs com service
+  worker, dados que ficam com o dono
+- 🤝 **Agentes de IA trabalhando junto:** um protocolo pra Claude Code e Codex
+  dividirem tarefas no mesmo repositório, com handoff escrito e revisão por commit
+- 📚 **Aprender em público:** cada projeto vira também material didático em
+  pt-BR, com conceitos explicados do zero, glossários e código comentado
+- ⚙️ **Automação e ferramentas de dev:** GitHub Actions, pipelines de dados,
+  scripts que resolvem problema real
+- 🔐 **Criptografia e engenharia reversa:** entender como as coisas são
+  protegidas (e como quebram) antes de confiar nelas
 
-Estudo fundamentos na Alura e aprofundo o restante construindo, lendo
-documentação e revisitando meus projetos. Hoje exploro **Python, JavaScript,
-software offline, IA local, arquitetura de agentes e automação**. Documento o
-que aprendo em português para que outras pessoas também possam acompanhar.
+### 🧰 Onde dá pra ver isso na prática
 
-### 🛠️ Tecnologias
+- [**TranscritorNPU**](https://github.com/LucasCerattoRS/TranscritorNPU): transcrição de áudio e vídeo 100% local, com Whisper na NPU via OpenVINO; também tira texto de imagens (OCR) e de PDFs
+- [**Horizonte Estudos**](https://github.com/LucasCerattoRS/horizonte-estudos): painel de estudos ENEM/UFRGS em JavaScript puro, offline-first, com sincronização entre dispositivos
+- [**Finan**](https://github.com/LucasCerattoRS/finan): gestor de finanças pessoais offline e portátil (Electron) + 37 documentos que explicam o código linha a linha
+- [**Sistema RH (estudo)**](https://github.com/LucasCerattoRS/Sistema_RH-Estudo-Publico): Node.js, Express e SQLite explicados do zero, com glossário A–Z
+- [**The Farmer Was Replaced Lab**](https://github.com/LucasCerattoRS/the-farmer-was-replaced-lab): guias e 42 scripts comentados pra estudar automação dentro do jogo
+- [**AI Coop**](https://github.com/LucasCerattoRS/ai-coop): o protocolo de cooperação entre agentes citado acima
+
+### 🎓 Onde estudo
+
+Alura (Escola de Tecnologia) pros fundamentos formais. O resto, que é a maior
+parte, é autodidata: abrindo o próprio código antigo, lendo os manuais das
+tecnologias que já uso, e conversando bastante com IA até o "porquê" fazer
+sentido, não só o "como".
+
+### 🛠️ Stack
 
 **Linguagens**
 
@@ -45,7 +63,7 @@ que aprendo em português para que outras pessoas também possam acompanhar.
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-**Apps, dados e IA local**
+**Runtime, dados & IA local**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
@@ -54,7 +72,7 @@ que aprendo em português para que outras pessoas também possam acompanhar.
 ![OpenVINO](https://img.shields.io/badge/OpenVINO-00C7FD?style=for-the-badge&logo=intel&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
 
-**Infra e automação**
+**Infra & automação**
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -68,7 +86,8 @@ que aprendo em português para que outras pessoas também possam acompanhar.
 
 ### 🕹️ GitHub Activity Game
 
-Este jogo é gerado automaticamente a partir das minhas contribuições no GitHub.
+Este space shooter é **gerado automaticamente a partir das minhas contribuições**
+por uma GitHub Action, e se atualiza sozinho conforme a minha atividade recente.
 
 <div align="center">
   <img src="game.gif" alt="Jogo espacial gerado a partir das minhas contribuições no GitHub">

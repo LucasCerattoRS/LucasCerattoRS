@@ -42,7 +42,7 @@ algo funciona por baixo e construir eu mesmo a confiar de olhos fechados.
 - [**Finan**](https://github.com/LucasCerattoRS/finan): gestor de finanças pessoais offline e portátil (Electron) + 37 documentos que explicam o código linha a linha
 - [**Sistema RH (estudo)**](https://github.com/LucasCerattoRS/Sistema_RH-Estudo-Publico): Node.js, Express e SQLite explicados do zero, com glossário A–Z
 - [**The Farmer Was Replaced Lab**](https://github.com/LucasCerattoRS/the-farmer-was-replaced-lab): guias e 42 scripts comentados pra estudar automação dentro do jogo
-- [**OfertaHub**](https://github.com/LucasCerattoRS/ofertahub): curadoria autônoma de ofertas da Amazon BR, com score de descontos e entrega por bot do Telegram
+- [**Links**](https://github.com/LucasCerattoRS/links): modelo de "link na bio" em Astro com efeito de vidro, hospedado de graça no Cloudflare Pages; é só editar um arquivo (`src/links.ts`) e reaproveitar
 - [**AI Coop**](https://github.com/LucasCerattoRS/ai-coop): o protocolo de cooperação entre agentes citado acima
 
 ### 🎓 Onde estudo

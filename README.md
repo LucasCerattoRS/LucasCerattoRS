@@ -38,10 +38,11 @@ algo funciona por baixo e construir eu mesmo a confiar de olhos fechados.
 ### 🧰 Onde dá pra ver isso na prática
 
 - [**TranscritorNPU**](https://github.com/LucasCerattoRS/TranscritorNPU): transcrição de áudio e vídeo 100% local, com Whisper na NPU via OpenVINO; também tira texto de imagens (OCR) e de PDFs
-- [**Horizonte Estudos**](https://github.com/LucasCerattoRS/horizonte-estudos): painel de estudos ENEM/UFRGS em JavaScript puro, offline-first, com sincronização entre dispositivos
+- [**Horizonte Estudos**](https://github.com/LucasCerattoRS/horizonte-estudos): painel de estudos ENEM/UFRGS (PWA) em JavaScript puro, offline-first, com sincronização entre dispositivos via Cloudflare Pages/D1
 - [**Finan**](https://github.com/LucasCerattoRS/finan): gestor de finanças pessoais offline e portátil (Electron) + 37 documentos que explicam o código linha a linha
 - [**Sistema RH (estudo)**](https://github.com/LucasCerattoRS/Sistema_RH-Estudo-Publico): Node.js, Express e SQLite explicados do zero, com glossário A–Z
 - [**The Farmer Was Replaced Lab**](https://github.com/LucasCerattoRS/the-farmer-was-replaced-lab): guias e 42 scripts comentados pra estudar automação dentro do jogo
+- [**OfertaHub**](https://github.com/LucasCerattoRS/ofertahub): curadoria autônoma de ofertas da Amazon BR, com score de descontos e entrega por bot do Telegram
 - [**AI Coop**](https://github.com/LucasCerattoRS/ai-coop): o protocolo de cooperação entre agentes citado acima
 
 ### 🎓 Onde estudo

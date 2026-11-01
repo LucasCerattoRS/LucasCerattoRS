@@ -72,6 +72,7 @@ sentido, não só o "como".
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![OpenVINO](https://img.shields.io/badge/OpenVINO-00C7FD?style=for-the-badge&logo=intel&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 
 **Infra & automação**
 
